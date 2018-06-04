@@ -1,0 +1,90 @@
+[
+  {
+  "name": "Bat Man",
+  "owner": {
+    "firstName": "Jean",
+    "lastName": "Fêtard",
+    "mail": "jfetard@taverne.com"
+  },
+  "openDays": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+    ],
+    "openHours": {
+      "start": 10,
+      "end": 1
+    },
+    "beers": [
+      {
+      "type": "Blonde",
+      "name": "Triple Karmeliet"
+    },
+    {
+      "type": "Brune",
+      "name": "1696"
+    }
+    ]
+  },
+  {
+  "name": "Tarte Enpion",
+  "owner": {
+    "firstName": "Jean",
+    "lastName": "Jeudemaux",
+    "mail": "jjeudemaux@taverne.com"
+  },
+  "openDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+    ],
+    "openHours": {
+      "start": 12,
+      "end": 23
+    },
+    "beers": [
+      {
+      "type": "Blonde",
+      "name": "Une bière blonde"
+    },
+      {
+      "type": "Brune",
+      "name": "Une bière brune"
+    }
+    ]
+  },
+  {
+  "name": "Disco Club",
+  "owner": {
+    "firstName": "Jean",
+    "lastName": "Tardif",
+    "mail": "jtardif@taverne.com"
+  },
+  "openDays": [
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+    ],
+    "openHours": {
+      "start": 11,
+      "end": 3
+    },
+    "beers": [
+      {
+      "type": "Blonde",
+      "name": "Vodka"
+    },
+      {
+      "type": "Brune",
+      "name": "Mojito"
+    }
+    ]
+  }
+]
